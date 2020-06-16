@@ -1,0 +1,17 @@
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\FXJunctionWebTests.deps.json
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\FXJunctionWebTests.runtimeconfig.json
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\FXJunctionWebTests.runtimeconfig.dev.json
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\FXJunctionWebTests.dll
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\bin\Debug\netcoreapp2.1\FXJunctionWebTests.pdb
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\obj\Debug\netcoreapp2.1\FXJunctionWebTests.csprojAssemblyReference.cache
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\obj\Debug\netcoreapp2.1\FXJunctionWebTests.AssemblyInfoInputs.cache
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\obj\Debug\netcoreapp2.1\FXJunctionWebTests.AssemblyInfo.cs
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\obj\Debug\netcoreapp2.1\FXJunctionWebTests.dll
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\obj\Debug\netcoreapp2.1\FXJunctionWebTests.pdb
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\obj\Debug\netcoreapp2.1\FXJunctionWebTests.genruntimeconfig.cache
+C:\Users\Data\Documents\Github\fxjunction\FXJunctionWebTests\FXJunctionWebTests\obj\Debug\netcoreapp2.1\FXJunctionWebTests.csproj.CoreCompileInputs.cache
